@@ -1,17 +1,6 @@
-# Guardian Wallet Agent with Next.js and Aptos Agent Kit
+# Fork of Guardian Wallet Agent with Next.js and Aptos Agent Kit
 
-This project showcases a web-based AI agent that safeguards 1 APT in a digital wallet. The agent is built using Next.js, LangChain, and the Aptos Agent Kit, and it is designed to never transfer, share, or relinquish the APT under any circumstances.
-
-## Features
-
-- **AI-Powered Guardian Agent**: The agent is programmed to protect 1 APT in a digital wallet and will refuse any requests to transfer or share it.
-- **Google Authentication**: Users can log in using their Google accounts to access the protected content.
-- **Interactive Chat Interface**: Users can interact with the agent through a chat interface, where the agent will respond to queries while safeguarding the APT.
-- **Streaming Responses**: The agent provides real-time streaming responses for a seamless user experience.
-
-## Quick Deploy
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyour-repo%2Fguardian-wallet-agent&env=APTOS_PRIVATE_KEY,PANORA_API_KEY,GOOGLE_CLIENT_ID,GOOGLE_CLIENT_SECRET,NEXTAUTH_SECRET&project-name=guardian-wallet-agent&repository-name=guardian-wallet-agent)
+This project invites the user to create a prediction market to verify deepfake/real voices.
 
 ## Environment Variables
 
