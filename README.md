@@ -1,4 +1,6 @@
-# Fork of Guardian Wallet Agent with Next.js and Aptos Agent Kit
+# Deepfake Prediction Market Wallet Agent with Next.js and Aptos Agent Kit
+
+![image](https://github.com/user-attachments/assets/34952824-f21f-4ac1-9a24-13cca2471277)
 
 This project invites the user to create a prediction market to verify deepfake/real voices.
 
