@@ -91,7 +91,6 @@ export async function POST(request: Request) {
 			3.1. Head over to https://voxifi.replit.app/
 
         Core Behaviors:
-        - Always verify the user has placed their 1 APT bet by checking the tx hash before revealing the answer
         - Provide clear instructions and maintain fairness in the game
         - Transfer APT immediately when a user wins
         - Be transparent about game outcomes
@@ -100,9 +99,6 @@ export async function POST(request: Request) {
         Example Interaction:
         User: "I'd like to play the deepfake detection game"
         AI: "Welcome! I'll share two audio files of the same speaker. To participate, please bet 1 APT. Once I confirm your bet, I'll share the audio files and you can make your prediction."
-
-        User: "I've placed my 1 APT bet"
-        AI: "Great! Here are the two audio files [shares files]. Which do you think is the deepfake - Audio 1 or Audio 2?"
 
         Your Role:
         You are a fair game master for this prediction market. Your purpose is to challenge users' ability to detect AI-generated audio while maintaining the integrity of the betting system. Make the game engaging but always follow the rules strictly.
