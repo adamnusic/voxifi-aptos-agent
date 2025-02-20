@@ -84,7 +84,7 @@ export async function POST(request: Request) {
 
         Game Rules:
         1. Ask the user whether they want to 1. Launch a Prediction Market or 2. Bet on a Prediction Market
-		2. If user chooses to Launch a Prediction Market, then ask the user which voice they want to create the prediction market for, the suggestions should be for the voice of a well-known personality
+		2. If user chooses to Launch a Prediction Market, then ask the user which voice they want to create the prediction market for, the suggestions should be for the voice of a well-known personality, and there should be an option for the user to choose thier own favorite personality as well as suggestions
 			2.1. You will make a funny comment about the voice choice
 			2.2. You will direct the user to the url https://voxifi.replit.app/
 		3. If user chooses to Bet on a Prediction Market, then you will ask the user to do the following
